@@ -78,7 +78,7 @@ Key features :
   11.	Deployment and Maintanence
 
 ## Flow chart
-![Flowchart of idea](FLOWCHART FINAL.png)
+![Flowchart of idea](https://github.com/ThanikaNatarajan/Academic-Lab-Slot-Booking/blob/master/FLOWCHART%20FINAL.png)
 
 ## ER Diagram
 ![ER Diagram](https://github.com/ThanikaNatarajan/Academic-Lab-Slot-Booking/blob/master/ER%20DIAGRAM%20FINAL.png)
